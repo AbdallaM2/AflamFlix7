@@ -10,7 +10,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 """
-    HOW_TXT = """<b>⚠️❗ تـنـسـيق الـبـحــث عـن فـيـلـم❗️⚠️</b>\n\n📝 اسم الفيلم , التاريخ, (ان لم تعرف تاريخ اصدار الفيلم اكتب اسم الفيلم فقط .. ما زال الوصول للفيلم صعب\nاكتب اسم الفيلم في جوجل لمعرفة التاريخ لتسهيل البحث او استخدم الامر /s بعدها اسم الفيلم ليرسل لك معلومات الفيلم مثل <code>/s joker</code> بعدها ابحث بشكل طبيعي <code>Joker 2019</code>)  📚\n\n🖇<b>مــثــال</b>:\n\n• The Godfather 1972✅\n• John Wick 2023✅\n• Her 2013✅ \n• Harry Potter 2005✅\n• Harry Potter 2001✅\n\n❌ لا تستخدم الرموز في البحث *:-.& ❌"""
+    HOW_TXT = """<b>⚠️❗ تـنـسـيق الـبـحــث عـن فـيـلـم❗️⚠️</b>\n\n📝 اسم الفيلم , التاريخ <د \n\n🖇<b>مــثــال</b>:\n\n• The Godfather 1972✅\n• John Wick 2023✅\n• Joker✅ \n• Her 2013✅ \n• Harry Potter 2005✅\n• Harry Potter 2001✅\n\n❌ لا تستخدم الرموز في البحث *:-.& ❌\n🔴تأكد من كتابة اسم الفيلم صحيح ، تأكد من الاسم الصحيح في <a href=google.com><b>Google</b></a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -88,17 +88,8 @@ class script(object):
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
 
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
-
-<b>NOTE:</b>
-these are the extra features of this bot
-
-<b>Commands and Usage:</b>
-• /id - <code>get id of a specifed user.</code>
-• /info  - <code>get information about a user.</code>
-• /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
-
+    EXTRAMOD_TXT = """ اكتب اسم الفيلم هنا <a href=https://t.me/AflamHome><b>Movies & Series Group 🎬</b></a> للبحث وتحميل الافلام """
+    
     ADMIN_TXT = """<b>ɴᴏᴛᴇ:</b>
 <code>Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</code>
 
