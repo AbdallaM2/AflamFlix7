@@ -40,7 +40,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('‼️ طريقة الاستخدام ‼️', callback_data='how')
         ], [
-            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷', url='https://t.me/AflamHome'),
+            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷', url='https://t.me/AflamyGroup'),
             InlineKeyboardButton('🔊 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/AflamSocietyy')
         ], [
             InlineKeyboardButton('💠 𝙷𝙴𝙻𝙿', callback_data='help'),
@@ -90,7 +90,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('‼️ طريقة الاستخدام ‼️', callback_data='how')
         ], [
-            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷', url='https://t.me/AflamHome'),
+            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷', url='https://t.me/AflamyGroup'),
             InlineKeyboardButton('🔊 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/AflamSocietyy')
         ], [
             InlineKeyboardButton('💠 𝙷𝙴𝙻𝙿', callback_data='help'),
